@@ -3,7 +3,7 @@
 
 </p>
 <p>
-<h3>🛠 Recopilatorio de Actividades desarrolladas en el transcurso de mi aprendizaje, agradecimientos a mis profesores que me brindaron el conocimiento:</h3>
-<h3>🛠 Computación Avanzada en Java con el profesor José Alfredo Jiménez Hernández.</h3>
+<h3> Recopilatorio de Actividades desarrolladas en el transcurso de mi aprendizaje, agradecimientos a mis profesores que me brindaron el conocimiento:</h3>
+<h3> Computación Avanzada en Java con el profesor José Alfredo Jiménez Hernández.</h3>
 </p>
 </p>
