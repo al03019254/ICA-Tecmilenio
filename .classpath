@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ComputacionAvanzadaJava/src/main/java"/>
+	<classpathentry kind="src" path="Computación en Java/02_Codificacion/src"/>
+	<classpathentry kind="src" path="TPBHTecnologicas/src/main/java"/>
+	<classpathentry kind="output" path="Computación en Java/02_Codificacion/out/production/untitled104"/>
+</classpath>
